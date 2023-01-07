@@ -6,14 +6,13 @@
 </p>
 
 Preparacion: 15mins  
-Autor:  
-<a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-nouille%232370-25?style=for-the-badge&logo=discord" /> </a>  
+Autor
+< a href = " https://discord.com " >< img src = " https://img.shields.io/badge/Discord-nouille%232370-25?style=for-the-badge&logo=discord " / > </ a >  
 
 ## Ingredientes
-* 100g de harina
-* 225g de semola de trigo fina
-* Sal
-* 1 cucharada de levadura
+* 
+* 225g de sémola de trigo fin
+* 
 * 1 sobre de levadura en polvo
 * 600ml de agua
 * Miel
@@ -27,7 +26,7 @@ Autor:
 2. Pon todos los ingredientes en el bol grande, incluida la levadura preparada.
 3. Mézclalo todo.
 4. Calienta la sartén y pon un cazo de tu preparación en ella.
-5. Deben aparecer burbujas en la parte superior de tu Barlel. No es necesario darle la vuelta, ya que se cuece por completo.
+5. Deben aparecer burbujas en la parte superior de tu Barlel. No es necesario darle la vuelta, ya que se cuece por completo
 6. Retira el Barlel de la sartén cuando esté completamente cocido. Se nota al tocarlo con la mano. Debe estar blando y amarillento.
 7. Ponle un poco de aceite de oliva y miel. Sé generoso.
 8.  Enróllalo y ¡a comer!
