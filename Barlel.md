@@ -10,7 +10,7 @@ Autor
 < a href = " https://discord.com " >< img src = " https://img.shields.io/badge/Discord-nouille%232370-25?style=for-the-badge&logo=discord " / > </ a >  
 
 ## Ingredientes
-* 
+
 * 225g de sémola de trigo fin
 * 
 * 1 sobre de levadura en polvo
